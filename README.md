@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Manasvi-Gangrade, a passionate first-year BTech student specializing in Artificial Intelligence and Machine Learning.
+👋 Hi, I’m @Manasvi-Gangrade, a passionate first-year BTech student specializing in Artificial Intelligence and Machine Learning.
 I'm currently delving into the fascinating world of technology and coding, focusing on web development and C++ programming. As a state topper and tech enthusiast, I thrive on tackling complex problems and learning new skills. My current journey includes two internships—one in web development and another in C++ programming—allowing me to apply my knowledge in real-world scenarios and gain valuable industry experience.
 
 🚀 What I’m Working On
