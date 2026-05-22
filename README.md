@@ -104,13 +104,46 @@ Full-stack ML platform for gaming vs. gambling addiction classification with rea
 
 ## Stack
 
-**Languages** — Python · C++ · C · JavaScript · TypeScript · SQL
+<div align="center">
 
-**AI / ML** — PyTorch · TensorFlow · LangChain · LangGraph · LangSmith · CrewAI · HuggingFace Transformers · OpenCV · spaCy · Scikit-Learn
+### Languages
 
-**Vector & Search** — FAISS · HNSWLIB · ChromaDB · Pinecone · Neo4j (Knowledge Graphs)
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,sql,bash&theme=dark"/>
 
-**Backend / Infra** — FastAPI · Django · Node.js · Express · Next.js · PostgreSQL · MongoDB · Redis · Kafka · Docker · AWS (S3, EC2) · Firebase
+<br/><br/>
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-2563EB?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangSmith-7C3AED?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/CrewAI-E11D48?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFB703?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenCV-16A34A?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+
+<br/><br/>
+
+### Vector & Search
+
+<img src="https://img.shields.io/badge/FAISS-0EA5E9?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/HNSWLIB-D946EF?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pinecone-00C27C?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
+
+<br/><br/>
+
+### Backend / Infrastructure
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express,nextjs,react,postgres,mongodb,mysql,redis,docker,aws,firebase&theme=dark"/>
+
+</div>
 
 ---
 
