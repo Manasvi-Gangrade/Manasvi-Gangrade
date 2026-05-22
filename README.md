@@ -24,7 +24,7 @@ I'm a third-year AI/ML undergrad at IIST Indore building systems where research 
 
 ---
 
-## Featured Projects
+## <img src="https://img.shields.io/badge/Featured%20Projects-FB5607?style=for-the-badge&logoColor=white"/>
 
 ### INDRA — Integrated National Decision & Response Architecture
 `Neo4j` `LangChain` `GPT-4o` `FastAPI` `React` `IndicTrans2` `PostgreSQL`
@@ -71,7 +71,7 @@ Full-stack ML platform for gaming vs. gambling addiction classification with rea
 
 ---
 
-## Stack
+## <img src="https://img.shields.io/badge/Tech%20Stack-0EA5E9?style=for-the-badge&logoColor=white"/>
 
 <div align="center">
 
@@ -116,7 +116,7 @@ Full-stack ML platform for gaming vs. gambling addiction classification with rea
 
 ---
 
-## Research
+## <img src="https://img.shields.io/badge/Research-E11D48?style=for-the-badge&logoColor=white"/>
 
 ### Automating Heuristic Design with Large Language Models
 *Supervised by Prof. Dr. Shweta Agrawal*
@@ -137,7 +137,7 @@ Extending EEG confidence decoding from simple perceptual tasks to complex career
 
 ---
 
-## Production Work
+## <img src="https://img.shields.io/badge/Production%20Work-06B6D4?style=for-the-badge&logoColor=white"/>
 
 | Project | Role | Scope |
 |---|---|---|
@@ -147,7 +147,7 @@ Extending EEG confidence decoding from simple perceptual tasks to complex career
 
 ---
 
-## Achievements
+## <img src="https://img.shields.io/badge/Achievements-F59E0B?style=for-the-badge&logoColor=black"/>
 
 - **Indore Tech Hackathon 2025** — ₹4L · Government of Madhya Pradesh & Indore Municipal Corporation
 - **IIT Bombay I-Hack** — ₹1L · Responsible Gaming Platform
@@ -159,7 +159,7 @@ Extending EEG confidence decoding from simple perceptual tasks to complex career
 
 ---
 
-## GitHub Stats
+## <img src="https://img.shields.io/badge/GitHub%20Stats-7C3AED?style=for-the-badge&logoColor=white"/>
 
 <div align="center">
 
