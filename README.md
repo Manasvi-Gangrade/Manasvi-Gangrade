@@ -1,5 +1,6 @@
-<h1 align="center">Manasvi Gangrade</h1>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Manasvi%20Gangrade&fontSize=60&fontColor=0EA5E9&animation=fadeIn"/>
 
+<div align="center">
 <img src="https://img.shields.io/badge/AI%20Researcher-0EA5E9?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Full--Stack%20AI%20Engineer-7C3AED?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/LLM%20Systems-E11D48?style=flat-square&logoColor=white"/>
@@ -15,7 +16,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/Manasvi-Gangrade)
 &nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=Manasvi-Gangrade&style=flat-square&color=475569)
-
+</div>
 ---
 
 
