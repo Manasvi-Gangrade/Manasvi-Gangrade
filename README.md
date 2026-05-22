@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:0F172A&height=200&section=header&text=Manasvi%20Gangrade&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Researcher%20%7C%20Full-Stack%20AI%20Engineer%20%7C%20LLM%20Systems&descAlignY=62&descColor=94A3B8"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:1E3A5F,50:0EA5E9,75:1E3A5F,100:0F172A&height=220&section=header&text=Manasvi%20Gangrade&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Researcher%20%7C%20Full-Stack%20AI%20Engineer%20%7C%20LLM%20Systems&descAlignY=56&descColor=94A3B8&descSize=18"/>
 
 </div>
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&multiline=false&width=750&lines=Building+production-grade+AI+for+real+governance+problems;LLM-augmented+optimization+%7C+ANN+Search+%7C+Agentic+RAG;Shipped+to+Indore+Smart+City+%26+Ministry+of+Telecom;Demonstrated+live+at+Bharat+Mandapam%2C+New+Delhi;Top+2%25+AIML+%7C+IIT+Bombay+Winner+%7C+SIH+Grand+Finalist"/>
 
 <div align="center">
 
@@ -75,42 +77,14 @@ Full-stack ML platform for gaming vs. gambling addiction classification with rea
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,sql,bash&theme=dark"/>
-
-<br/><br/>
-
-### AI / ML
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-2563EB?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangSmith-7C3AED?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/CrewAI-E11D48?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFB703?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/OpenCV-16A34A?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-
-<br/><br/>
-
-### Vector & Search
-
-<img src="https://img.shields.io/badge/FAISS-0EA5E9?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/HNSWLIB-D946EF?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pinecone-00C27C?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"/>
-
-<br/><br/>
-
-### Backend / Infrastructure
-
-<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express,nextjs,react,postgres,mongodb,mysql,redis,docker,aws,firebase&theme=dark"/>
+| | |
+|:---|:---|
+| **Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/> |
+| **AI / ML** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-2563EB?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/LangSmith-7C3AED?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/CrewAI-E11D48?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/HuggingFace-FFB703?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/OpenCV-16A34A?style=flat-square&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> |
+| **Vector & Search** | <img src="https://img.shields.io/badge/FAISS-0EA5E9?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/HNSWLIB-D946EF?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Pinecone-00C27C?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white"/> |
+| **Backend** | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> |
+| **Databases** | <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/> |
+| **Infra & Cloud** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/> |
 
 </div>
 
