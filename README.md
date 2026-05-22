@@ -5,24 +5,24 @@
 ### AI Researcher • Full-Stack AI Engineer • LLM Systems • Optimization • ANN Search
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Building+Production-Grade+AI+Systems;LLMs+%7C+RAG+%7C+Agentic+Architectures;Optimization+%7C+ANN+Search+%7C+Decision+Intelligence;Researching+Scalable+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3200&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Building+Production-Grade+AI+Systems;LLMs+%7C+RAG+%7C+Agentic+Architectures;Optimization+%7C+ANN+Search+%7C+Decision+Intelligence;Researching+Scalable+Intelligent+Systems" />
 </p>
 
 <p align="center">
   <a href="mailto:gangrademanasvi@gmail.com">
     <img src="https://img.shields.io/badge/Email-gangrademanasvi%40gmail.com-161B22?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  
+
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
+
   <a href="https://github.com/YOUR_GITHUB_USERNAME">
     <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=58A6FF"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
@@ -41,20 +41,25 @@ Education:
   SGPA: 8.79
   CGPA: 7.98
 
-Core Domains:
+Research Interests:
   - LLM-Augmented Optimization
+  - Approximate Nearest Neighbor Search
   - Agentic AI Systems
   - Retrieval-Augmented Generation
-  - Approximate Nearest Neighbor Search
   - Cognitive AI & EEG Modeling
   - High-Dimensional Vector Retrieval
   - Governance Intelligence Systems
 
-Highlights:
+Academic Highlights:
+  - Top 2% AIML Department
+  - 20+ National-Level Competitions
+  - Highest Podium Record in Institute Across IITs & Govt Initiatives
+
+Achievements:
   - Winner: Indore Tech Hackathon 2025 (₹4L)
   - Winner: IIT Bombay I-Hack (₹1L)
+  - Winner: InnovateX IIT Bombay (₹50K)
   - Grand Finalist: Smart India Hackathon 2024
-  - Top 2% AIML Department
 ```
 
 ---
@@ -77,9 +82,10 @@ Highlights:
 
 ```txt
 LLMs • RAG • Agentic Systems • LangChain • LangGraph
-CrewAI • Prompt Engineering • RL-inspired Optimization
+CrewAI • LangSmith • Prompt Engineering
 Computer Vision • NLP • CNNs • RNNs • Transformers
-Knowledge Graphs • ANN Search • FAISS • HNSWLIB
+RL-inspired Optimization • Knowledge Graphs
+ANN Search • FAISS • HNSWLIB • Vector Retrieval
 ```
 
 ---
@@ -91,8 +97,9 @@ Knowledge Graphs • ANN Search • FAISS • HNSWLIB
 </p>
 
 ```txt
-REST APIs • WebSockets • Socket.io • Authentication Systems
-Distributed Architectures • Kafka • Redis • Real-time Systems
+REST APIs • WebSockets • Socket.io
+Kafka • Redis • Real-time Architectures
+Distributed Systems • Authentication Systems
 ```
 
 ---
@@ -104,8 +111,9 @@ Distributed Architectures • Kafka • Redis • Real-time Systems
 </p>
 
 ```txt
-Neo4j • ChromaDB • Pinecone • Vector Databases
-AWS EC2 • AWS S3 • Airflow • Cloud-Native Pipelines
+Neo4j • Pinecone • ChromaDB • Vector Databases
+AWS EC2 • AWS S3 • Apache Airflow
+Cloud-Native Data Pipelines
 ```
 
 ---
@@ -123,19 +131,19 @@ IndicTrans2 • PostgreSQL • Multi-Agent RAG
 
 ### Core Features
 
-- Unified governance intelligence layer over 500+ live datasets
+- Governance intelligence layer over 500+ live datasets
 - RAG-powered administrative co-pilot
 - Semantic entity linking across departments
 - Multilingual AI assistant across 22 Indian languages
 - Real-time voice translation across 230+ languages
 - Live deployment showcase at Bharat Mandapam, New Delhi
 
-### System Design
+### System Architecture
 
 ```mermaid
 graph TD
 
-A[Live Government Data Sources]
+A[Government Data Sources]
 --> B[Knowledge Graph Layer]
 
 B --> C[LLM Orchestration]
@@ -158,11 +166,11 @@ AES-256 • TLS 1.3 • OTP Authentication
 
 ### Features
 
-- Unified urban citizen service platform
-- Real-time event-driven architecture using Kafka
+- Unified citizen-service platform
+- Kafka-driven real-time event architecture
 - Secure encrypted transaction pipeline
-- Redis-backed low-latency session handling
-- Multilingual interface architecture
+- Redis-backed low-latency sessions
+- Multilingual interface support
 
 ---
 
@@ -178,9 +186,9 @@ OCR • ETL Pipelines • Cloud Data Lakes
 ### Features
 
 - Unified oceanographic + taxonomic data lake
-- OCR-powered digitization of legacy research
-- Automated ETL workflows
-- Searchable scientific intelligence platform
+- OCR-powered digitization of legacy field notes
+- Automated ETL pipelines
+- Searchable scientific intelligence system
 
 ---
 
@@ -195,23 +203,22 @@ MERN • Socket.io • ML/DL • Behavioral Analytics
 ### Features
 
 - Gaming vs Gambling addiction classification
-- Real-time monitoring pipelines
-- Behavioral intervention recommendation engine
-- WebSocket-powered live analytics
+- Real-time behavioral monitoring
+- Personalized intervention recommendation engine
+- Live analytics using WebSockets
 
 ---
 
 # NASA Space Biology Knowledge Engine
 
 ```txt
-Knowledge Graphs • LLMs • Semantic Retrieval
-Scientific Intelligence Systems
+Knowledge Graphs • Semantic Retrieval • Scientific AI
 ```
 
 ### Features
 
 - Knowledge graph over 608 NASA publications
-- Cross-paper semantic discovery
+- Cross-paper semantic discovery engine
 - Research acceleration for Moon & Mars missions
 - AI-powered scientific retrieval system
 
@@ -223,12 +230,12 @@ Scientific Intelligence Systems
 ### Indore Smart City Development
 
 ```txt
-Production RAG • Governance AI • Urban Data Intelligence
+Production RAG • Governance AI • Urban Intelligence
 ```
 
 - Designed and deployed large-scale civic intelligence RAG architecture
-- Enabled natural language access over heterogeneous urban datasets
-- Built for municipal governance workflows and public-scale deployment
+- Natural language access over heterogeneous urban datasets
+- Built for municipal governance workflows and citizen-scale deployment
 
 ---
 
@@ -240,27 +247,32 @@ Production RAG • Governance AI • Urban Data Intelligence
 Computer Vision • GIS • Drone Surveillance • Geospatial AI
 ```
 
-- Real-time illegal construction detection system
-- GIS-integrated drone surveillance pipeline
-- Automated urban monitoring workflows
+### Features
+
+- Real-time illegal construction detection
+- GIS-integrated drone monitoring pipeline
+- Automated urban surveillance workflows
 
 ---
 
 # Dynamic Mail Transmission System
-### Ministry of Telecommunications — SIH 2024
+### Ministry of Telecommunications — Smart India Hackathon 2024
 
 ```txt
-RL-inspired Optimization • Multimodal Logistics • Route Intelligence
+RL-inspired Optimization • Logistics Intelligence
+Multimodal Routing Systems
 ```
 
+### Features
+
 - National-scale logistics optimization framework
-- Dynamic transport selection:
+- Dynamic transport selection across:
   - Rail
   - Air
   - Road
   - Waterways
 
-- Reinforcement learning-inspired heuristic routing engine
+- Reinforcement learning-inspired routing heuristics
 
 ---
 
@@ -279,10 +291,9 @@ Automated Heuristic Generation
 ### Contributions
 
 - Developed LLM-Heuristic framework replacing handcrafted heuristics
-- Introduced:
-  - Diversity-aware prompting
-  - Evolutionary mutation & crossover
-  - Performance-driven refinement loops
+- Diversity-aware prompting
+- Evolutionary mutation & crossover
+- Performance-driven refinement loops
 
 ### Theory
 
@@ -346,8 +357,9 @@ Signal Processing • Neural Oscillations
 | InnovateX IIT Bombay | ₹50K Prize |
 | Smart India Hackathon 2024 | Grand Finalist |
 | VISIONX ISRO | 1st Runner-Up |
-| Indian Talent Science Olympiad | State Topper |
+| Indian Talent National Science Olympiad | State Topper |
 | Mumbai Tech Hackathon 2025 | Guinness GenAI Hackathon Finalist |
+| India Innovates 2026 | Bharat Mandapam Showcase |
 
 ---
 
@@ -359,9 +371,13 @@ AI/ML Research Lead
 - Reviewing research papers
 - Leading multidisciplinary AI teams
 
-Event Host & Public Speaker
+Public Speaker & Event Host
 - Hosted annual college fest (2 years)
 - Conducted induction & technical events
+
+Sports
+- District-level Table Tennis Player
+- State Championship Selectee
 ```
 
 ---
@@ -403,8 +419,8 @@ Event Host & Public Speaker
 <div align="center">
 
 ```txt
-Building intelligent systems that bridge research, governance,
-optimization, and scalable AI infrastructure.
+Building intelligent systems that bridge research,
+optimization, governance, and scalable AI infrastructure.
 ```
 
 </div>
