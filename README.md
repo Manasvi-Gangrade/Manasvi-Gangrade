@@ -1,7 +1,4 @@
-Replace kar poora header section (upar wali <div align="center"> se lekar pehli --- tak):
-<div align="center">
-
-<h1>Manasvi Gangrade</h1>
+<h1 align="center">Manasvi Gangrade</h1>
 
 <img src="https://img.shields.io/badge/AI%20Researcher-0EA5E9?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Full--Stack%20AI%20Engineer-7C3AED?style=flat-square&logoColor=white"/>
@@ -11,11 +8,7 @@ Replace kar poora header section (upar wali <div align="center"> se lekar pehli 
 <img src="https://img.shields.io/badge/Manuscript%20in%20Prep-1E293B?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Expected%202027-1E293B?style=flat-square&logoColor=white"/>
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=800&color=0EA5E9&center=true&vCenter=true&multiline=false&width=750&lines=Building+production-grade+AI+for+real+governance+problems;LLM-augmented+optimization+%7C+ANN+Search+%7C+Agentic+RAG;Shipped+to+Indore+Smart+City+%26+Ministry+of+Telecom;Demonstrated+live+at+Bharat+Mandapam%2C+New+Delhi;Top+2%25+AIML+%7C+IIT+Bombay+Winner+%7C+SIH+Grand+Finalist"/>
-
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=800&color=0EA5E9&center=false&vCenter=true&multiline=false&width=750&lines=Building+production-grade+AI+for+real+governance+problems;LLM-augmented+optimization+%7C+ANN+Search+%7C+Agentic+RAG;Shipped+to+Indore+Smart+City+%26+Ministry+of+Telecom;Demonstrated+live+at+Bharat+Mandapam%2C+New+Delhi;Top+2%25+AIML+%7C+IIT+Bombay+Winner+%7C+SIH+Grand+Finalist"/>
 
 [![Email](https://img.shields.io/badge/gangrademanasvi%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gangrademanasvi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/manasvi-gangrade-9941952bb)
@@ -23,9 +16,8 @@ Replace kar poora header section (upar wali <div align="center"> se lekar pehli 
 &nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=Manasvi-Gangrade&style=flat-square&color=475569)
 
-</div>
-
 ---
+
 
 I'm a third-year AI/ML undergrad at IIST Indore building systems where research meets deployment — LLM-augmented optimization, approximate nearest neighbor search, and agentic architectures for real governance and logistics problems. My work has shipped to Indore Smart City, the Ministry of Telecommunications, and was demonstrated live at Bharat Mandapam, New Delhi.
 
