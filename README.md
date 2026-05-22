@@ -73,16 +73,17 @@ I'm a third-year AI/ML undergrad at IIST Indore building systems where research 
 
 <img src="https://img.shields.io/badge/Governance%20Intelligence%20OS-0ea5e9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/India%20Innovates%202026-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Bharat%20Mandapam-E11D48?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bharat%20Mandapam%20Demo-E11D48?style=for-the-badge"/>
 
 </div>
 
 **Stack:** Neo4j · LangChain · GPT-4o · FastAPI · React · PostgreSQL · IndicTrans2 · Multi-Agent RAG  
 
-- Governance OS over 500+ live data sources  
-- INDRA VOICE: multilingual AI agent (22 languages, 230+ translations)  
-- INDRA PILOT: real-time policy reasoning system  
-- Live demo at India Innovates 2026, New Delhi  
+Governance intelligence system built over 500+ live data sources.
+
+- INDRA VOICE — multilingual AI agent (22 Indian languages, 230+ voice translations)  
+- INDRA PILOT — real-time policy co-pilot with semantic entity linking  
+- Demonstrated at India Innovates 2026, Bharat Mandapam, New Delhi  
 
 [GitHub](https://github.com/Manasvi-Gangrade)
 
@@ -92,16 +93,18 @@ I'm a third-year AI/ML undergrad at IIST Indore building systems where research 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Urban%20Infra-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Urban%20Digital%20Infrastructure-8B5CF6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AES%20256%20%7C%20TLS%201.3-16A34A?style=for-the-badge"/>
 
 </div>
 
 **Stack:** React · Node.js · PostgreSQL · Redis · Kafka  
 
-- Unified civic service platform  
-- Real-time event streaming via Kafka  
-- Secure transaction pipeline (AES-256, TLS 1.3)  
+Unified civic service platform.
+
+- Event-driven architecture using Kafka  
+- End-to-end encrypted transaction system  
+- OTP + Redis session management  
 
 [GitHub](https://github.com/Manasvi-Gangrade)
 
@@ -118,9 +121,11 @@ I'm a third-year AI/ML undergrad at IIST Indore building systems where research 
 
 **Stack:** PyTorch · AWS S3 · Airflow · MongoDB · OCR  
 
-- Unified oceanographic + eDNA + taxonomy datasets  
-- OCR-based ETL pipeline for legacy data  
-- Scientific search and analytics layer  
+Cloud-native scientific data lake.
+
+- Unified ocean + taxonomy + eDNA datasets  
+- OCR-based ETL pipeline  
+- Research-grade query system  
 
 [GitHub](https://github.com/Manasvi-Gangrade)
 
@@ -137,9 +142,11 @@ I'm a third-year AI/ML undergrad at IIST Indore building systems where research 
 
 **Stack:** Knowledge Graphs · LLMs · Semantic Search  
 
-- Cross-paper knowledge graph system  
-- Retrieval engine for NASA publications  
-- Insight generation for space missions  
+Cross-paper scientific reasoning system.
+
+- Knowledge graph over NASA publications  
+- Semantic retrieval engine  
+- Space mission insight extraction  
 
 [GitHub](https://github.com/Manasvi-Gangrade)
 
@@ -156,9 +163,11 @@ I'm a third-year AI/ML undergrad at IIST Indore building systems where research 
 
 **Stack:** MERN · Socket.io · ML · Behavioral Analytics  
 
-- Real-time addiction risk detection system  
+Real-time addiction detection system.
+
+- Behavioral ML classification  
 - WebSocket monitoring pipeline  
-- Personalized intervention alerts  
+- Intervention alert system  
 
 [GitHub](https://github.com/Manasvi-Gangrade)
 
