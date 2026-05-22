@@ -1,322 +1,372 @@
 <div align="center">
 
-# 👨‍💻 Manasvi Gangrade
+# Manasvi Gangrade
 
-### 🚀 Full-Stack AI Engineer | AI Researcher | LLMs • RAG • Agentic Systems
+### AI Researcher • Full-Stack AI Engineer • LLM Systems • Optimization • ANN Search
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+Researcher+%7C+Full-Stack+AI+Engineer;LLMs+%7C+RAG+%7C+Multi-Agent+Systems;Optimization+%7C+ANN+Search+%7C+Decision+Intelligence;Building+AI+for+Governance%2C+Science+%26+Scale" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=1000&lines=Building+Production-Grade+AI+Systems;LLMs+%7C+RAG+%7C+Agentic+Architectures;Optimization+%7C+ANN+Search+%7C+Decision+Intelligence;Researching+Scalable+Intelligent+Systems" />
+</p>
 
-<br/>
+<p align="center">
+  <a href="mailto:gangrademanasvi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gangrademanasvi%40gmail.com-161B22?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-<a href="mailto:gangrademanasvi@gmail.com">
-  <img src="https://img.shields.io/badge/Email-gangrademanasvi%40gmail.com-red?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-Manasvi%20Gangrade-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-Manasvi-black?style=for-the-badge&logo=github">
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=blueviolet" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=58A6FF"/>
 
 </div>
 
 ---
 
-# ⚡ About Me
+# Profile
 
 ```yaml
 Name: Manasvi Gangrade
-Role: Full-Stack AI Engineer & Undergraduate AI Researcher
+Role: AI Researcher & Full-Stack AI Engineer
 
 Education:
-  Degree: B.Tech Artificial Intelligence & Machine Learning
+  Degree: B.Tech in Artificial Intelligence & Machine Learning
   Institute: Indore Institute of Science & Technology
   Graduation: 2027
   SGPA: 8.79
   CGPA: 7.98
 
-Research Interests:
+Core Domains:
   - LLM-Augmented Optimization
-  - Approximate Nearest Neighbor Search
   - Agentic AI Systems
-  - RAG Architectures
-  - AI-Assisted Decision Systems
-  - Cognitive Neuroscience
+  - Retrieval-Augmented Generation
+  - Approximate Nearest Neighbor Search
+  - Cognitive AI & EEG Modeling
   - High-Dimensional Vector Retrieval
+  - Governance Intelligence Systems
 
-Achievements:
+Highlights:
   - Winner: Indore Tech Hackathon 2025 (₹4L)
   - Winner: IIT Bombay I-Hack (₹1L)
-  - Winner: InnovateX IIT Bombay (₹50K)
-  - Smart India Hackathon 2024 Grand Finalist
+  - Grand Finalist: Smart India Hackathon 2024
   - Top 2% AIML Department
 ```
 
 ---
 
-# 🧠 Research Domains
+# Technical Stack
 
-<div align="center">
+## Languages
 
-| Domain | Focus |
-|---|---|
-| 🤖 LLM Systems | Autonomous reasoning & heuristic generation |
-| ⚡ Optimization | TSP, VRP, JSSP, RL-inspired systems |
-| 🔍 ANN Search | FAISS, HNSW, Product Quantization |
-| 🧬 Cognitive AI | EEG dynamics & confidence decoding |
-| 🌐 Agentic AI | Multi-agent orchestration & RAG |
-| 🏛️ Governance AI | Smart-city intelligence systems |
-
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,sql,bash" />
+</p>
 
 ---
 
-# 💻 Tech Stack
+## AI / Machine Learning
 
-## 🚀 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
-
----
-
-## 🤖 AI / ML
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-blue?style=for-the-badge)
-![CrewAI](https://img.shields.io/badge/CrewAI-purple?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge)
-
----
-
-## 🗄️ Databases & Vector Search
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j)
-![FAISS](https://img.shields.io/badge/FAISS-005571?style=for-the-badge)
-![Pinecone](https://img.shields.io/badge/Pinecone-00B386?style=for-the-badge)
-
----
-
-## 🌐 Full Stack & Cloud
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-
----
-
-# 🔬 Research Projects
-
-## 🧩 Automating Heuristic Design with Large Language Models
-
-### Overview
-Developed **LLM-Heuristic**, a framework replacing hand-crafted heuristics using LLM-driven algorithm generation for:
-
-- Traveling Salesman Problem (TSP)
-- Vehicle Routing Problem (VRP)
-- Job Shop Scheduling Problem (JSSP)
-
-### Contributions
-- Diversity-aware multi-stage prompting
-- Evolutionary mutation & crossover
-- Performance-driven iterative refinement
-- Theoretical convergence guarantees
-- Sample complexity bounds
-
-### Research Focus
-```python
-Domains = ["TSP", "VRP", "JSSP"]
-Method = "LLM + Evolutionary Search"
-Goal = "Automated Heuristic Discovery"
+```txt
+LLMs • RAG • Agentic Systems • LangChain • LangGraph
+CrewAI • Prompt Engineering • RL-inspired Optimization
+Computer Vision • NLP • CNNs • RNNs • Transformers
+Knowledge Graphs • ANN Search • FAISS • HNSWLIB
 ```
 
 ---
 
-## 🔍 Similarity Search on High-Dimensional Vector Data
+## Backend / Full Stack
 
-### Research Focus
-Designed quantization-based AKNN systems with formal guarantees.
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,fastapi" />
+</p>
 
-### Contributions
-- Learned Product Quantization
-- Sparse Johnson-Lindenstrauss Projections
-- Multi-index hybrid retrieval
-- Accuracy guarantees for ANN search
-
-### Applications
-- RAG optimization
-- Semantic retrieval
-- High-dimensional search systems
+```txt
+REST APIs • WebSockets • Socket.io • Authentication Systems
+Distributed Architectures • Kafka • Redis • Real-time Systems
+```
 
 ---
 
-## 🧠 Decoding Career Decision Confidence from EEG Dynamics
+## Databases & Infrastructure
 
-### Overview
-Researching EEG-based confidence decoding for career decision-making.
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,aws,firebase" />
+</p>
 
-### Contributions
-- Hybrid CNN-LSTM with temporal attention
-- Delta-Gamma neural oscillation modeling
-- CWT/HHT signal preprocessing
-- Saliency & interpretability visualization
-- Transfer learning from public EEG datasets
+```txt
+Neo4j • ChromaDB • Pinecone • Vector Databases
+AWS EC2 • AWS S3 • Airflow • Cloud-Native Pipelines
+```
 
 ---
 
-# 🏛️ Industry & Practical Experience
+# Technical Projects
 
-## 🌆 RAG-based Urban Intelligence System
+# INDRA — Integrated National Decision & Response Architecture
+
+### Governance Intelligence Operating System
+
+```txt
+Neo4j • LangChain • GPT-4o • FastAPI • React
+IndicTrans2 • PostgreSQL • Multi-Agent RAG
+```
+
+### Core Features
+
+- Unified governance intelligence layer over 500+ live datasets
+- RAG-powered administrative co-pilot
+- Semantic entity linking across departments
+- Multilingual AI assistant across 22 Indian languages
+- Real-time voice translation across 230+ languages
+- Live deployment showcase at Bharat Mandapam, New Delhi
+
+### System Design
+
+```mermaid
+graph TD
+
+A[Live Government Data Sources]
+--> B[Knowledge Graph Layer]
+
+B --> C[LLM Orchestration]
+C --> D[RAG Pipeline]
+D --> E[Decision Intelligence Layer]
+
+E --> F[Voice AI]
+E --> G[Policy Copilot]
+E --> H[Semantic Search]
+```
+
+---
+
+# SUVIDHA — Smart Urban Digital Helpdesk
+
+```txt
+React • Node.js • PostgreSQL • Kafka • Redis
+AES-256 • TLS 1.3 • OTP Authentication
+```
+
+### Features
+
+- Unified urban citizen service platform
+- Real-time event-driven architecture using Kafka
+- Secure encrypted transaction pipeline
+- Redis-backed low-latency session handling
+- Multilingual interface architecture
+
+---
+
+# OceanDepths — Marine Intelligence Platform
+
+### Smart India Hackathon 2025 — Ministry of Earth Sciences
+
+```txt
+Python • AWS S3 • MongoDB • Apache Airflow
+OCR • ETL Pipelines • Cloud Data Lakes
+```
+
+### Features
+
+- Unified oceanographic + taxonomic data lake
+- OCR-powered digitization of legacy research
+- Automated ETL workflows
+- Searchable scientific intelligence platform
+
+---
+
+# Responsible Gaming Platform
+
+### Winner — IIT Bombay I-Hack
+
+```txt
+MERN • Socket.io • ML/DL • Behavioral Analytics
+```
+
+### Features
+
+- Gaming vs Gambling addiction classification
+- Real-time monitoring pipelines
+- Behavioral intervention recommendation engine
+- WebSocket-powered live analytics
+
+---
+
+# NASA Space Biology Knowledge Engine
+
+```txt
+Knowledge Graphs • LLMs • Semantic Retrieval
+Scientific Intelligence Systems
+```
+
+### Features
+
+- Knowledge graph over 608 NASA publications
+- Cross-paper semantic discovery
+- Research acceleration for Moon & Mars missions
+- AI-powered scientific retrieval system
+
+---
+
+# Production Experience
+
+# RAG-based Urban Intelligence System
 ### Indore Smart City Development
 
-- Production-grade civic intelligence RAG system
-- Natural language querying over urban datasets
-- Designed for municipal governance workflows
-- Supports 3M+ citizens
+```txt
+Production RAG • Governance AI • Urban Data Intelligence
+```
+
+- Designed and deployed large-scale civic intelligence RAG architecture
+- Enabled natural language access over heterogeneous urban datasets
+- Built for municipal governance workflows and public-scale deployment
 
 ---
 
-## 🛰️ Garun — Illegal Construction Detection Framework
+# Garun — Geospatial Illegal Construction Detection
+
 ### Indore Municipal Corporation
 
-- Drone surveillance + GIS integration
-- Geospatial AI violation detection
-- Real-time monitoring pipeline
-- Reduced manual inspection overhead
+```txt
+Computer Vision • GIS • Drone Surveillance • Geospatial AI
+```
+
+- Real-time illegal construction detection system
+- GIS-integrated drone surveillance pipeline
+- Automated urban monitoring workflows
 
 ---
 
-## 📦 Dynamic Mail Transmission System
+# Dynamic Mail Transmission System
 ### Ministry of Telecommunications — SIH 2024
 
-- RL-inspired multimodal routing optimizer
-- National logistics optimization
+```txt
+RL-inspired Optimization • Multimodal Logistics • Route Intelligence
+```
+
+- National-scale logistics optimization framework
 - Dynamic transport selection:
-  - Road
   - Rail
   - Air
-  - Water
+  - Road
+  - Waterways
+
+- Reinforcement learning-inspired heuristic routing engine
 
 ---
 
-# 🚀 Featured Projects
+# Research Work
 
-# 🇮🇳 INDRA — Integrated National Decision & Response Architecture
+# Automating Heuristic Design with Large Language Models
 
-## 🌟 Governance Intelligence OS for India
+### Research Area
+LLM-Augmented Combinatorial Optimization
 
-### Features
-- 500+ live governance data sources
-- RAG-powered administrative co-pilot
-- Multilingual AI agent (22 Indian languages)
-- Voice translation across 230+ languages
-- Semantic entity linking
-- Real-time governance intelligence
-
-### Tech Stack
 ```txt
-Neo4j • LangChain • GPT-4o • FastAPI
-React • IndicTrans2 • PostgreSQL
+TSP • VRP • JSSP • Evolutionary Prompting
+Automated Heuristic Generation
 ```
 
-### Showcase
-📍 Demonstrated live at Bharat Mandapam, New Delhi
+### Contributions
+
+- Developed LLM-Heuristic framework replacing handcrafted heuristics
+- Introduced:
+  - Diversity-aware prompting
+  - Evolutionary mutation & crossover
+  - Performance-driven refinement loops
+
+### Theory
+
+- Monotonic improvement guarantees
+- Sample complexity analysis
+- Convergence under elitism
 
 ---
 
-# 🌊 OceanDepths — Marine Intelligence Platform
+# Similarity Search on High-Dimensional Vector Data
 
-### Built For
-Smart India Hackathon 2025 — Ministry of Earth Sciences
+### Research Area
+Approximate Nearest Neighbor Search
 
-### Features
-- OCR-enabled ETL pipelines
-- Oceanographic intelligence system
-- eDNA dataset integration
-- Scientific data lake architecture
-
-### Stack
 ```txt
-Python • AWS S3 • MongoDB
-Apache Airflow • OCR
+ANN Search • Product Quantization • Sparse JL Projections
+FAISS • HNSW • High-Dimensional Retrieval
 ```
 
+### Contributions
+
+- Designed AKNN systems with theoretical guarantees
+- Learned Product Quantization framework
+- Multi-index hybrid retrieval architectures
+- Sparse vector retrieval optimization
+
+### Applications
+
+- RAG acceleration
+- Semantic retrieval systems
+- Latency-sensitive vector search
+
 ---
 
-# 🛰️ NASA Space Biology Knowledge Engine
+# Decoding Career Decision Confidence from EEG Dynamics
 
-### Features
-- Knowledge graph over 608 NASA publications
-- Semantic search engine
-- Cross-paper insight discovery
-- Research acceleration for Moon & Mars missions
+### Research Area
+Cognitive AI & Neural Signal Modeling
 
----
-
-# 🎮 Responsible Gaming Platform
-
-🏆 Winner — IIT Bombay I-Hack
-
-### Features
-- Gaming vs Gambling addiction detection
-- Real-time behavioral monitoring
-- Personalized intervention alerts
-- WebSocket-powered analytics
-
-### Stack
 ```txt
-MERN • Socket.io • ML/DL
+EEG • CNN-LSTM • Temporal Attention
+Signal Processing • Neural Oscillations
 ```
 
----
+### Contributions
 
-# 🏙️ SUVIDHA — Smart Urban Digital Helpdesk
-
-### Features
-- Unified citizen service kiosk
-- AES-256 + TLS 1.3 encryption
-- Kafka event streaming
-- Redis session caching
-- OTP authentication
-- Multilingual support
+- Hybrid CNN-LSTM architecture with temporal attention
+- Delta-Gamma oscillation modeling
+- CWT/HHT preprocessing pipelines
+- Saliency & attention visualization systems
+- Transfer learning using public EEG datasets
 
 ---
 
-# 🏆 Achievements
-
-<div align="center">
+# Achievements
 
 | Achievement | Recognition |
 |---|---|
-| 🥇 Indore Tech Hackathon 2025 | ₹4L Prize |
-| 🥇 IIT Bombay I-Hack | ₹1L Prize |
-| 🥇 InnovateX IIT Bombay | ₹50K Prize |
-| 🚀 Smart India Hackathon 2024 | Grand Finalist |
-| 🛰️ VISIONX ISRO | 1st Runner-Up |
-| 🧪 Indian Talent Science Olympiad | State Topper |
-| 🏅 Mumbai Tech Hackathon 2025 | Guinness GenAI Hackathon Finalist |
-| 🏛️ Bharat Mandapam Showcase | India Innovates 2026 |
-
-</div>
+| Indore Tech Hackathon 2025 | ₹4L Prize |
+| IIT Bombay I-Hack | ₹1L Prize |
+| InnovateX IIT Bombay | ₹50K Prize |
+| Smart India Hackathon 2024 | Grand Finalist |
+| VISIONX ISRO | 1st Runner-Up |
+| Indian Talent Science Olympiad | State Topper |
+| Mumbai Tech Hackathon 2025 | Guinness GenAI Hackathon Finalist |
 
 ---
 
-# 📊 GitHub Analytics
+# Leadership
+
+```txt
+AI/ML Research Lead
+- Mentoring junior researchers
+- Reviewing research papers
+- Leading multidisciplinary AI teams
+
+Event Host & Public Speaker
+- Hosted annual college fest (2 years)
+- Conducted induction & technical events
+```
+
+---
+
+# GitHub Analytics
 
 <div align="center">
 
@@ -330,28 +380,31 @@ MERN • Socket.io • ML/DL
 
 ---
 
-# 🌐 Connect With Me
+# Connect
 
-<div align="center">
+<p align="center">
 
 <a href="mailto:gangrademanasvi@gmail.com">
-  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+  <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-## ⚡ “Building AI systems that move from research papers to real-world governance, optimization, and intelligence.”
+```txt
+Building intelligent systems that bridge research, governance,
+optimization, and scalable AI infrastructure.
+```
 
 </div>
