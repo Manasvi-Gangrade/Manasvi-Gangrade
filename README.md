@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E3A5F&height=80&text=Manasvi%20Gangrade&fontSize=60&fontColor=0EA5E9&animation=fadeIn"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A5F,100:0F172A&height=120&text=Manasvi%20Gangrade&fontSize=52&fontColor=0EA5E9&animation=fadeIn&fontAlignY=55"/>
+<br>
 <img src="https://img.shields.io/badge/AI%20Researcher-0EA5E9?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Full--Stack%20AI%20Engineer-7C3AED?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/LLM%20Systems-E11D48?style=flat-square&logoColor=white"/>
